@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "29270430569",
+    "project_id": "linkdin-34798",
+    "storage_bucket": "linkdin-34798.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29270430569:android:1939e134a07e03f1eea3f8",
+        "android_client_info": {
+          "package_name": "com.example.linkdln"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29270430569-mvua5qe4l5gfk0c1brr85dsv6fhrje00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB9ILq2rhXXU4Qar6z03-wsSylzhecH-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29270430569-mvua5qe4l5gfk0c1brr85dsv6fhrje00.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
